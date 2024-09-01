@@ -22,4 +22,9 @@ INICIAÇÃO CIENTÍFICA – 2024
 ![Mapa Alta Intensidade Tecnológica](./results/mapa-alta-intensidade-tecn.png)
 
 ---
+<h3>Mapa do Paraná - Média  Alta Intensidade Tecnológica – 2022</h3>
+
+![Mapa Média Alta Intensidade Tecnológica](./results/mapa-media-alta-intensidade-tecn.png)
+
+---
 <h2>F. Morais, 2024</h2>
