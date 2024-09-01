@@ -1,4 +1,6 @@
-# ic-2024
+INICIAÇÃO CIENTÍFICA – 2024
+---
+### ic-2024
 <h3>Iniciação Científica - Indicador de Concentração Tecnológica (RAIS 2022)</h3>
 
 ---
@@ -15,4 +17,9 @@
 
 ---
 
+<h3>Mapa do Paraná - Alta Intensidade Tecnológica – 2022</h3>
+
+![Mapa Alta Intensidade Tecnológica](./results/mapa-alta-intensidade-tecn.png)
+
+---
 <h2>F. Morais, 2024</h2>
