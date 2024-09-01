@@ -1,0 +1,400 @@
+ano,sigla_uf,sigla_uf_nome,id_municipio,id_municipio_nome,populacao
+2022,PR,Paraná,4100103,Abatiá,7321
+2022,PR,Paraná,4100202,Adrianópolis,8556
+2022,PR,Paraná,4100301,Agudos do Sul,10092
+2022,PR,Paraná,4100400,Almirante Tamandaré,122032
+2022,PR,Paraná,4100459,Altamira do Paraná,3435
+2022,PR,Paraná,4100509,Altônia,18735
+2022,PR,Paraná,4100608,Alto Paraná,13897
+2022,PR,Paraná,4100707,Alto Piquiri,9646
+2022,PR,Paraná,4100806,Alvorada do Sul,11672
+2022,PR,Paraná,4100905,Amaporã,4765
+2022,PR,Paraná,4101002,Ampére,19506
+2022,PR,Paraná,4101051,Anahy,3107
+2022,PR,Paraná,4101101,Andirá,20234
+2022,PR,Paraná,4101150,Ângulo,3447
+2022,PR,Paraná,4101200,Antonina,17261
+2022,PR,Paraná,4101309,Antônio Olinto,6520
+2022,PR,Paraná,4101408,Apucarana,135969
+2022,PR,Paraná,4101507,Arapongas,118573
+2022,PR,Paraná,4101606,Arapoti,25541
+2022,PR,Paraná,4101655,Arapuã,3537
+2022,PR,Paraná,4101705,Araruna,14520
+2022,PR,Paraná,4101804,Araucária,166699
+2022,PR,Paraná,4101853,Ariranha do Ivaí,2340
+2022,PR,Paraná,4101903,Assaí,17628
+2022,PR,Paraná,4102000,Assis Chateaubriand,36400
+2022,PR,Paraná,4102109,Astorga,25477
+2022,PR,Paraná,4102208,Atalaia,3978
+2022,PR,Paraná,4102307,Balsa Nova,14608
+2022,PR,Paraná,4102406,Bandeirantes,31309
+2022,PR,Paraná,4102505,Barbosa Ferraz,10766
+2022,PR,Paraná,4102604,Barracão,9886
+2022,PR,Paraná,4102703,Barra do Jacaré,3022
+2022,PR,Paraná,4102752,Bela Vista da Caroba,3416
+2022,PR,Paraná,4102802,Bela Vista do Paraíso,14789
+2022,PR,Paraná,4102901,Bituruna,15443
+2022,PR,Paraná,4103008,Boa Esperança,4552
+2022,PR,Paraná,4103024,Boa Esperança do Iguaçu,2411
+2022,PR,Paraná,4103040,Boa Ventura de São Roque,6347
+2022,PR,Paraná,4103057,Boa Vista da Aparecida,7876
+2022,PR,Paraná,4103107,Bocaiúva do Sul,16292
+2022,PR,Paraná,4103156,Bom Jesus do Sul,3942
+2022,PR,Paraná,4103206,Bom Sucesso,6583
+2022,PR,Paraná,4103222,Bom Sucesso do Sul,3540
+2022,PR,Paraná,4103305,Borrazópolis,7706
+2022,PR,Paraná,4103354,Braganey,5212
+2022,PR,Paraná,4103370,Brasilândia do Sul,3703
+2022,PR,Paraná,4103404,Cafeara,2620
+2022,PR,Paraná,4103453,Cafelândia,18262
+2022,PR,Paraná,4103479,Cafezal do Sul,4474
+2022,PR,Paraná,4103503,Califórnia,9438
+2022,PR,Paraná,4103602,Cambará,23956
+2022,PR,Paraná,4103701,Cambé,107220
+2022,PR,Paraná,4103800,Cambira,10482
+2022,PR,Paraná,4103909,Campina da Lagoa,15737
+2022,PR,Paraná,4103958,Campina do Simão,3937
+2022,PR,Paraná,4104006,Campina Grande do Sul,52083
+2022,PR,Paraná,4104055,Campo Bonito,4266
+2022,PR,Paraná,4104105,Campo do Tenente,7583
+2022,PR,Paraná,4104204,Campo Largo,144165
+2022,PR,Paraná,4104253,Campo Magro,31678
+2022,PR,Paraná,4104303,Campo Mourão,99170
+2022,PR,Paraná,4104402,Cândido de Abreu,16727
+2022,PR,Paraná,4104428,Candói,14922
+2022,PR,Paraná,4104451,Cantagalo,10589
+2022,PR,Paraná,4104501,Capanema,19205
+2022,PR,Paraná,4104600,Capitão Leônidas Marques,14644
+2022,PR,Paraná,4104659,Carambeí,23386
+2022,PR,Paraná,4104709,Carlópolis,16908
+2022,PR,Paraná,4104808,Cascavel,350644
+2022,PR,Paraná,4104907,Castro,75956
+2022,PR,Paraná,4105003,Catanduvas,11246
+2022,PR,Paraná,4105102,Centenário do Sul,10836
+2022,PR,Paraná,4105201,Cerro Azul,16145
+2022,PR,Paraná,4105300,Céu Azul,11081
+2022,PR,Paraná,4105409,Chopinzinho,21646
+2022,PR,Paraná,4105508,Cianorte,82232
+2022,PR,Paraná,4105607,Cidade Gaúcha,11467
+2022,PR,Paraná,4105706,Clevelândia,17321
+2022,PR,Paraná,4105805,Colombo,238780
+2022,PR,Paraná,4105904,Colorado,22902
+2022,PR,Paraná,4106001,Congonhinhas,8336
+2022,PR,Paraná,4106100,Conselheiro Mairinck,4354
+2022,PR,Paraná,4106209,Contenda,17435
+2022,PR,Paraná,4106308,Corbélia,17466
+2022,PR,Paraná,4106407,Cornélio Procópio,44599
+2022,PR,Paraná,4106456,Coronel Domingos Soares,7007
+2022,PR,Paraná,4106506,Coronel Vivida,26413
+2022,PR,Paraná,4106555,Corumbataí do Sul,3752
+2022,PR,Paraná,4106571,Cruzeiro do Iguaçu,4137
+2022,PR,Paraná,4106605,Cruzeiro do Oeste,23852
+2022,PR,Paraná,4106704,Cruzeiro do Sul,4495
+2022,PR,Paraná,4106803,Cruz Machado,15993
+2022,PR,Paraná,4106852,Cruzmaltina,3150
+2022,PR,Paraná,4106902,Curitiba,1871789
+2022,PR,Paraná,4107009,Curiúva,13272
+2022,PR,Paraná,4107108,Diamante do Norte,5151
+2022,PR,Paraná,4107124,Diamante do Sul,3173
+2022,PR,Paraná,4107157,Diamante D'Oeste,5106
+2022,PR,Paraná,4107207,Dois Vizinhos,44828
+2022,PR,Paraná,4107256,Douradina,9168
+2022,PR,Paraná,4107306,Doutor Camargo,6290
+2022,PR,Paraná,4107405,Enéas Marques,5995
+2022,PR,Paraná,4107504,Engenheiro Beltrão,12444
+2022,PR,Paraná,4107520,Esperança Nova,1845
+2022,PR,Paraná,4107538,Entre Rios do Oeste,4511
+2022,PR,Paraná,4107546,Espigão Alto do Iguaçu,5915
+2022,PR,Paraná,4107553,Farol,3052
+2022,PR,Paraná,4107603,Faxinal,16338
+2022,PR,Paraná,4107652,Fazenda Rio Grande,167315
+2022,PR,Paraná,4107702,Fênix,4492
+2022,PR,Paraná,4107736,Fernandes Pinheiro,6288
+2022,PR,Paraná,4107751,Figueira,8064
+2022,PR,Paraná,4107801,Floraí,6569
+2022,PR,Paraná,4107850,Flor da Serra do Sul,4230
+2022,PR,Paraná,4107900,Floresta,11559
+2022,PR,Paraná,4108007,Florestópolis,11475
+2022,PR,Paraná,4108106,Flórida,2651
+2022,PR,Paraná,4108205,Formosa do Oeste,7641
+2022,PR,Paraná,4108304,Foz do Iguaçu,286323
+2022,PR,Paraná,4108320,Francisco Alves,8141
+2022,PR,Paraná,4108403,Francisco Beltrão,96622
+2022,PR,Paraná,4108452,Foz do Jordão,4845
+2022,PR,Paraná,4108502,General Carneiro,11053
+2022,PR,Paraná,4108551,Godoy Moreira,2977
+2022,PR,Paraná,4108601,Goioerê,28470
+2022,PR,Paraná,4108650,Goioxim,6570
+2022,PR,Paraná,4108700,Grandes Rios,5625
+2022,PR,Paraná,4108809,Guaíra,31971
+2022,PR,Paraná,4108908,Guairaçá,6582
+2022,PR,Paraná,4108957,Guamiranga,7856
+2022,PR,Paraná,4109005,Guapirama,4627
+2022,PR,Paraná,4109104,Guaporema,2186
+2022,PR,Paraná,4109203,Guaraci,4751
+2022,PR,Paraná,4109302,Guaraniaçu,14398
+2022,PR,Paraná,4109401,Guarapuava,190342
+2022,PR,Paraná,4109500,Guaraqueçaba,7446
+2022,PR,Paraná,4109609,Guaratuba,42801
+2022,PR,Paraná,4109658,Honório Serpa,5471
+2022,PR,Paraná,4109708,Ibaiti,30943
+2022,PR,Paraná,4109757,Ibema,6218
+2022,PR,Paraná,4109807,Ibiporã,54917
+2022,PR,Paraná,4109906,Icaraíma,8992
+2022,PR,Paraná,4110003,Iguaraçu,5478
+2022,PR,Paraná,4110052,Iguatu,2142
+2022,PR,Paraná,4110078,Imbaú,11619
+2022,PR,Paraná,4110102,Imbituva,29893
+2022,PR,Paraná,4110201,Inácio Martins,10776
+2022,PR,Paraná,4110300,Inajá,2529
+2022,PR,Paraná,4110409,Indianópolis,4223
+2022,PR,Paraná,4110508,Ipiranga,14230
+2022,PR,Paraná,4110607,Iporã,15730
+2022,PR,Paraná,4110656,Iracema do Oeste,2347
+2022,PR,Paraná,4110706,Irati,59253
+2022,PR,Paraná,4110805,Iretama,10681
+2022,PR,Paraná,4110904,Itaguajé,4489
+2022,PR,Paraná,4110953,Itaipulândia,10909
+2022,PR,Paraná,4111001,Itambaracá,5920
+2022,PR,Paraná,4111100,Itambé,6734
+2022,PR,Paraná,4111209,Itapejara d'Oeste,13177
+2022,PR,Paraná,4111258,Itaperuçu,31843
+2022,PR,Paraná,4111308,Itaúna do Sul,3566
+2022,PR,Paraná,4111407,Ivaí,13142
+2022,PR,Paraná,4111506,Ivaiporã,32604
+2022,PR,Paraná,4111555,Ivaté,6771
+2022,PR,Paraná,4111605,Ivatuba,2786
+2022,PR,Paraná,4111704,Jaboti,5425
+2022,PR,Paraná,4111803,Jacarezinho,40356
+2022,PR,Paraná,4111902,Jaguapitã,15193
+2022,PR,Paraná,4112009,Jaguariaíva,35527
+2022,PR,Paraná,4112108,Jandaia do Sul,23006
+2022,PR,Paraná,4112207,Janiópolis,5862
+2022,PR,Paraná,4112306,Japira,4971
+2022,PR,Paraná,4112405,Japurá,9127
+2022,PR,Paraná,4112504,Jardim Alegre,12070
+2022,PR,Paraná,4112603,Jardim Olinda,1280
+2022,PR,Paraná,4112702,Jataizinho,11857
+2022,PR,Paraná,4112751,Jesuítas,10508
+2022,PR,Paraná,4112801,Joaquim Távora,11870
+2022,PR,Paraná,4112900,Jundiaí do Sul,3446
+2022,PR,Paraná,4112959,Juranda,7773
+2022,PR,Paraná,4113007,Jussara,7477
+2022,PR,Paraná,4113106,Kaloré,4579
+2022,PR,Paraná,4113205,Lapa,45620
+2022,PR,Paraná,4113254,Laranjal,5628
+2022,PR,Paraná,4113304,Laranjeiras do Sul,31953
+2022,PR,Paraná,4113403,Leópolis,3940
+2022,PR,Paraná,4113429,Lidianópolis,3936
+2022,PR,Paraná,4113452,Lindoeste,5147
+2022,PR,Paraná,4113502,Loanda,23149
+2022,PR,Paraná,4113601,Lobato,4600
+2022,PR,Paraná,4113700,Londrina,588125
+2022,PR,Paraná,4113734,Luiziana,6711
+2022,PR,Paraná,4113759,Lunardelli,5027
+2022,PR,Paraná,4113809,Lupionópolis,4812
+2022,PR,Paraná,4113908,Mallet,13378
+2022,PR,Paraná,4114005,Mamborê,13404
+2022,PR,Paraná,4114104,Mandaguaçu,31544
+2022,PR,Paraná,4114203,Mandaguari,36827
+2022,PR,Paraná,4114302,Mandirituba,33795
+2022,PR,Paraná,4114351,Manfrinópolis,2775
+2022,PR,Paraná,4114401,Mangueirinha,17287
+2022,PR,Paraná,4114500,Manoel Ribas,13702
+2022,PR,Paraná,4114609,Marechal Cândido Rondon,56530
+2022,PR,Paraná,4114708,Maria Helena,5872
+2022,PR,Paraná,4114807,Marialva,47028
+2022,PR,Paraná,4114906,Marilândia do Sul,9757
+2022,PR,Paraná,4115002,Marilena,7220
+2022,PR,Paraná,4115101,Mariluz,9846
+2022,PR,Paraná,4115200,Maringá,454146
+2022,PR,Paraná,4115309,Mariópolis,6356
+2022,PR,Paraná,4115358,Maripá,6639
+2022,PR,Paraná,4115408,Marmeleiro,15873
+2022,PR,Paraná,4115457,Marquinho,4348
+2022,PR,Paraná,4115507,Marumbi,4700
+2022,PR,Paraná,4115606,Matelândia,18472
+2022,PR,Paraná,4115705,Matinhos,39212
+2022,PR,Paraná,4115739,Mato Rico,3279
+2022,PR,Paraná,4115754,Mauá da Serra,8937
+2022,PR,Paraná,4115804,Medianeira,54390
+2022,PR,Paraná,4115853,Mercedes,5945
+2022,PR,Paraná,4115903,Mirador,2240
+2022,PR,Paraná,4116000,Miraselva,1965
+2022,PR,Paraná,4116059,Missal,12951
+2022,PR,Paraná,4116109,Moreira Sales,11170
+2022,PR,Paraná,4116208,Morretes,18396
+2022,PR,Paraná,4116307,Munhoz de Melo,3937
+2022,PR,Paraná,4116406,Nossa Senhora das Graças,3677
+2022,PR,Paraná,4116505,Nova Aliança do Ivaí,1315
+2022,PR,Paraná,4116604,Nova América da Colina,3277
+2022,PR,Paraná,4116703,Nova Aurora,12848
+2022,PR,Paraná,4116802,Nova Cantu,6781
+2022,PR,Paraná,4116901,Nova Esperança,26616
+2022,PR,Paraná,4116950,Nova Esperança do Sudoeste,5592
+2022,PR,Paraná,4117008,Nova Fátima,7225
+2022,PR,Paraná,4117057,Nova Laranjeiras,14132
+2022,PR,Paraná,4117107,Nova Londrina,12911
+2022,PR,Paraná,4117206,Nova Olímpia,5834
+2022,PR,Paraná,4117214,Nova Santa Bárbara,4183
+2022,PR,Paraná,4117222,Nova Santa Rosa,8292
+2022,PR,Paraná,4117255,Nova Prata do Iguaçu,10780
+2022,PR,Paraná,4117271,Nova Tebas,6848
+2022,PR,Paraná,4117297,Novo Itacolomi,4061
+2022,PR,Paraná,4117305,Ortigueira,26078
+2022,PR,Paraná,4117404,Ourizona,3184
+2022,PR,Paraná,4117453,Ouro Verde do Oeste,6808
+2022,PR,Paraná,4117503,Paiçandu,49999
+2022,PR,Paraná,4117602,Palmas,43769
+2022,PR,Paraná,4117701,Palmeira,36384
+2022,PR,Paraná,4117800,Palmital,13080
+2022,PR,Paraná,4117909,Palotina,35063
+2022,PR,Paraná,4118006,Paraíso do Norte,13246
+2022,PR,Paraná,4118105,Paranacity,9561
+2022,PR,Paraná,4118204,Paranaguá,157043
+2022,PR,Paraná,4118303,Paranapoema,2406
+2022,PR,Paraná,4118402,Paranavaí,90969
+2022,PR,Paraná,4118451,Pato Bragado,5976
+2022,PR,Paraná,4118501,Pato Branco,94239
+2022,PR,Paraná,4118600,Paula Freitas,5616
+2022,PR,Paraná,4118709,Paulo Frontin,6460
+2022,PR,Paraná,4118808,Peabiru,13345
+2022,PR,Paraná,4118857,Perobal,7132
+2022,PR,Paraná,4118907,Pérola,11885
+2022,PR,Paraná,4119004,Pérola d'Oeste,6197
+2022,PR,Paraná,4119103,Piên,13552
+2022,PR,Paraná,4119152,Pinhais,131048
+2022,PR,Paraná,4119202,Pinhalão,6564
+2022,PR,Paraná,4119251,Pinhal de São Bento,2762
+2022,PR,Paraná,4119301,Pinhão,29931
+2022,PR,Paraná,4119400,Piraí do Sul,23514
+2022,PR,Paraná,4119509,Piraquara,131101
+2022,PR,Paraná,4119608,Pitanga,33640
+2022,PR,Paraná,4119657,Pitangueiras,3016
+2022,PR,Paraná,4119707,Planaltina do Paraná,4063
+2022,PR,Paraná,4119806,Planalto,14300
+2022,PR,Paraná,4119905,Ponta Grossa,391654
+2022,PR,Paraná,4119954,Pontal do Paraná,32985
+2022,PR,Paraná,4120002,Porecatu,11596
+2022,PR,Paraná,4120101,Porto Amazonas,5543
+2022,PR,Paraná,4120150,Porto Barreiro,3111
+2022,PR,Paraná,4120200,Porto Rico,3194
+2022,PR,Paraná,4120309,Porto Vitória,3484
+2022,PR,Paraná,4120333,Prado Ferreira,3663
+2022,PR,Paraná,4120358,Pranchita,5705
+2022,PR,Paraná,4120408,Presidente Castelo Branco,4334
+2022,PR,Paraná,4120507,Primeiro de Maio,10239
+2022,PR,Paraná,4120606,Prudentópolis,49395
+2022,PR,Paraná,4120655,Quarto Centenário,4213
+2022,PR,Paraná,4120705,Quatiguá,8092
+2022,PR,Paraná,4120804,Quatro Barras,26452
+2022,PR,Paraná,4120853,Quatro Pontes,4051
+2022,PR,Paraná,4120903,Quedas do Iguaçu,30785
+2022,PR,Paraná,4121000,Querência do Norte,10708
+2022,PR,Paraná,4121109,Quinta do Sol,5009
+2022,PR,Paraná,4121208,Quitandinha,19240
+2022,PR,Paraná,4121257,Ramilândia,4848
+2022,PR,Paraná,4121307,Rancho Alegre,3511
+2022,PR,Paraná,4121356,Rancho Alegre D'Oeste,2615
+2022,PR,Paraná,4121406,Realeza,18928
+2022,PR,Paraná,4121505,Rebouças,14524
+2022,PR,Paraná,4121604,Renascença,6839
+2022,PR,Paraná,4121703,Reserva,26786
+2022,PR,Paraná,4121752,Reserva do Iguaçu,7009
+2022,PR,Paraná,4121802,Ribeirão Claro,12357
+2022,PR,Paraná,4121901,Ribeirão do Pinhal,13053
+2022,PR,Paraná,4122008,Rio Azul,14032
+2022,PR,Paraná,4122107,Rio Bom,3755
+2022,PR,Paraná,4122156,Rio Bonito do Iguaçu,13955
+2022,PR,Paraná,4122172,Rio Branco do Ivaí,3866
+2022,PR,Paraná,4122206,Rio Branco do Sul,32566
+2022,PR,Paraná,4122305,Rio Negro,31406
+2022,PR,Paraná,4122404,Rolândia,71344
+2022,PR,Paraná,4122503,Roncador,11253
+2022,PR,Paraná,4122602,Rondon,9093
+2022,PR,Paraná,4122651,Rosário do Ivaí,5697
+2022,PR,Paraná,4122701,Sabáudia,8819
+2022,PR,Paraná,4122800,Salgado Filho,4144
+2022,PR,Paraná,4122909,Salto do Itararé,5195
+2022,PR,Paraná,4123006,Salto do Lontra,14006
+2022,PR,Paraná,4123105,Santa Amélia,3396
+2022,PR,Paraná,4123204,Santa Cecília do Pavão,3361
+2022,PR,Paraná,4123303,Santa Cruz de Monte Castelo,8630
+2022,PR,Paraná,4123402,Santa Fé,11397
+2022,PR,Paraná,4123501,Santa Helena,24917
+2022,PR,Paraná,4123600,Santa Inês,1744
+2022,PR,Paraná,4123709,Santa Isabel do Ivaí,8897
+2022,PR,Paraná,4123808,Santa Izabel do Oeste,12444
+2022,PR,Paraná,4123824,Santa Lúcia,3668
+2022,PR,Paraná,4123857,Santa Maria do Oeste,9811
+2022,PR,Paraná,4123907,Santa Mariana,11111
+2022,PR,Paraná,4123956,Santa Mônica,3357
+2022,PR,Paraná,4124004,Santana do Itararé,5514
+2022,PR,Paraná,4124020,Santa Tereza do Oeste,12928
+2022,PR,Paraná,4124053,Santa Terezinha de Itaipu,23236
+2022,PR,Paraná,4124103,Santo Antônio da Platina,45261
+2022,PR,Paraná,4124202,Santo Antônio do Caiuá,2499
+2022,PR,Paraná,4124301,Santo Antônio do Paraíso,2122
+2022,PR,Paraná,4124400,Santo Antônio do Sudoeste,19677
+2022,PR,Paraná,4124509,Santo Inácio,6184
+2022,PR,Paraná,4124608,São Carlos do Ivaí,6588
+2022,PR,Paraná,4124707,São Jerônimo da Serra,10742
+2022,PR,Paraná,4124806,São João,11683
+2022,PR,Paraná,4124905,São João do Caiuá,5585
+2022,PR,Paraná,4125001,São João do Ivaí,10665
+2022,PR,Paraná,4125100,São João do Triunfo,13725
+2022,PR,Paraná,4125209,São Jorge d'Oeste,9308
+2022,PR,Paraná,4125308,São Jorge do Ivaí,5159
+2022,PR,Paraná,4125357,São Jorge do Patrocínio,6520
+2022,PR,Paraná,4125407,São José da Boa Vista,5968
+2022,PR,Paraná,4125456,São José das Palmeiras,4063
+2022,PR,Paraná,4125506,São José dos Pinhais,327746
+2022,PR,Paraná,4125555,São Manoel do Paraná,2132
+2022,PR,Paraná,4125605,São Mateus do Sul,44313
+2022,PR,Paraná,4125704,São Miguel do Iguaçu,29285
+2022,PR,Paraná,4125753,São Pedro do Iguaçu,6854
+2022,PR,Paraná,4125803,São Pedro do Ivaí,8691
+2022,PR,Paraná,4125902,São Pedro do Paraná,2654
+2022,PR,Paraná,4126009,São Sebastião da Amoreira,8070
+2022,PR,Paraná,4126108,São Tomé,5385
+2022,PR,Paraná,4126207,Sapopema,6444
+2022,PR,Paraná,4126256,Sarandi,126057
+2022,PR,Paraná,4126272,Saudade do Iguaçu,6137
+2022,PR,Paraná,4126306,Sengés,17112
+2022,PR,Paraná,4126355,Serranópolis do Iguaçu,5034
+2022,PR,Paraná,4126405,Sertaneja,5761
+2022,PR,Paraná,4126504,Sertanópolis,16694
+2022,PR,Paraná,4126603,Siqueira Campos,24083
+2022,PR,Paraná,4126652,Sulina,3440
+2022,PR,Paraná,4126678,Tamarana,12115
+2022,PR,Paraná,4126702,Tamboara,4879
+2022,PR,Paraná,4126801,Tapejara,15659
+2022,PR,Paraná,4126900,Tapira,5743
+2022,PR,Paraná,4127007,Teixeira Soares,9565
+2022,PR,Paraná,4127106,Telêmaco Borba,73331
+2022,PR,Paraná,4127205,Terra Boa,18654
+2022,PR,Paraná,4127304,Terra Rica,14862
+2022,PR,Paraná,4127403,Terra Roxa,18448
+2022,PR,Paraná,4127502,Tibagi,18612
+2022,PR,Paraná,4127601,Tijucas do Sul,17717
+2022,PR,Paraná,4127700,Toledo,156123
+2022,PR,Paraná,4127809,Tomazina,9659
+2022,PR,Paraná,4127858,Três Barras do Paraná,11142
+2022,PR,Paraná,4127882,Tunas do Paraná,8617
+2022,PR,Paraná,4127908,Tuneiras do Oeste,10332
+2022,PR,Paraná,4127957,Tupãssi,8088
+2022,PR,Paraná,4127965,Turvo,16147
+2022,PR,Paraná,4128005,Ubiratã,24733
+2022,PR,Paraná,4128104,Umuarama,117148
+2022,PR,Paraná,4128203,União da Vitória,55238
+2022,PR,Paraná,4128302,Uniflor,2136
+2022,PR,Paraná,4128401,Uraí,10378
+2022,PR,Paraná,4128500,Wenceslau Braz,18894
+2022,PR,Paraná,4128534,Ventania,9682
+2022,PR,Paraná,4128559,Vera Cruz do Oeste,9326
+2022,PR,Paraná,4128609,Verê,7929
+2022,PR,Paraná,4128625,Alto Paraíso,3059
+2022,PR,Paraná,4128633,Doutor Ulysses,6216
+2022,PR,Paraná,4128658,Virmond,3813
+2022,PR,Paraná,4128708,Vitorino,9942
+2022,PR,Paraná,4128807,Xambrê,5769
